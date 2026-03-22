@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Walk",
+  "base_artist": "GADORO",
+  "createdAt": "2026-03-22T07:44:38.976248Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walk Of Life",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/01_Walk_Of_Life_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Can Walk the Line (If It Ain't Too Straight)",
+      "artist": "Joe Diffie",
+      "has_synced": false,
+      "path": "select/02_I_Can_Walk_the_Line_(If_It_Ain't_Too_Straight)_Joe_Diffie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Can Walk The Line (If It Ain't Too Straight) (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": false,
+      "path": "select/03_I_Can_Walk_The_Line_(If_It_Ain't_Too_Straight)_(Album_Version)_Joe_Diffie.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Walk Alone",
+      "artist": "Marty Robbins",
+      "has_synced": true,
+      "path": "select/04_I_Walk_Alone_Marty_Robbins.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Walk On Guilded Splinters",
+      "artist": "Dr. John",
+      "has_synced": false,
+      "path": "select/05_I_Walk_On_Guilded_Splinters_Dr._John.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Walk the Line",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/06_I_Walk_the_Line_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Walk the Line",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/07_I_Walk_the_Line_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Walk the Line (Sings Hank Williams Album Version)",
+      "artist": "Johnny Cash",
+      "has_synced": false,
+      "path": "select/08_I_Walk_the_Line_(Sings_Hank_Williams_Album_Version)_Johnny_Cash.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Walk The Line (feat. The Tennessee Two) [Single Version]",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/09_I_Walk_The_Line_(feat._The_Tennessee_Two)_[Single_Version]_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Walk the Line (Stereo Version)",
+      "artist": "Johnny Cash",
+      "has_synced": true,
+      "path": "select/10_I_Walk_the_Line_(Stereo_Version)_Johnny_Cash.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Only Daddy That'll Walk the Line",
+      "artist": "Waylon Jennings",
+      "has_synced": false,
+      "path": "select/11_Only_Daddy_That'll_Walk_the_Line_Waylon_Jennings.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tennessee Bird Walk",
+      "artist": "Jack Blanchard & Misty Morgan",
+      "has_synced": false,
+      "path": "select/12_Tennessee_Bird_Walk_Jack_Blanchard_&_Misty_Morgan.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Walk",
+      "artist": "Sawyer Brown",
+      "has_synced": true,
+      "path": "select/13_The_Walk_Sawyer_Brown.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Walk On",
+      "artist": "Reba McEntire",
+      "has_synced": false,
+      "path": "select/14_Walk_On_Reba_McEntire.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Walk",
+      "artist": "GADORO",
+      "has_synced": false,
+      "path": "select/pl_01_Walk_GADORO.txt"
+    }
+  ]
+}
